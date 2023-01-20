@@ -1,0 +1,42 @@
+.navbar-toggler {
+    box-shadow: none !important;
+    border: 0 !important;
+}
+.header {
+    background: #264653;
+}
+.banner {
+    height: 100vh;
+}
+.fetured-bike, .latest-news, .happy-clients, .faqs, .footer {
+    margin-top: 140px !important;
+}
+.stars img{
+    width: 20px;    
+}
+.accordion-button:focus {
+    border: 0;
+    box-shadow: none;
+}
+.accordion-button:not(.collapsed) {
+    color: #0A0826;
+    background-color: #fff;
+    box-shadow: none;
+}
+.footer ul {
+    list-style: none;
+    padding: 0 !important;
+    margin: 20px 0;
+}
+.footer ul li {
+    margin-left: 10px;
+}
+.footer ul li a{
+    color: #fff;
+    text-decoration: none;
+}
+
+.get-app img{
+    max-width: 200px;
+    width: 100%;
+}
