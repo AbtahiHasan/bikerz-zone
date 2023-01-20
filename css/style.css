@@ -1,3 +1,6 @@
+.header , #main-content, .footer {
+    overflow-x: hidden;
+}
 .navbar-toggler {
     box-shadow: none !important;
     border: 0 !important;
